@@ -173,49 +173,7 @@ window.onload = function() {
           ]
     })
   })
-  // CARROSSEL MIDIAS
-  $(function () {
   
-    $('.carrossel-midia').slick({
-        infinite: true,
-        slidesToShow: 3,
-        slidesToScroll: 1,
-        centerMode: true,  
-        prevArrow: $('#prev-midia'),
-        nextArrow: $('#next-midia'),
-  
-        responsive: [
-            {
-              breakpoint: 1140,
-              settings: {
-                slidesToShow: 1,
-                slidesToScroll: 1,
-              }
-            }
-          ]
-    })
-  })
-  // CARROSSEL PODCAST
-  $(function () {
-  
-    $('.carrossel-podcast').slick({
-        infinite: true,
-        slidesToShow: 2,
-        slidesToScroll: 1,  
-        prevArrow: $('#prev-podcast'),
-        nextArrow: $('#next-podcast'),
-  
-        responsive: [
-            {
-              breakpoint: 769,
-              settings: {
-                slidesToShow: 1,
-                slidesToScroll: 1,
-              }
-            }
-          ]
-    })
-  })
   // CARROSSEL travel
   $(function () {
   
