@@ -746,7 +746,7 @@ include 'app/views/header.php';
         <div class="container">
             <div class="title">
                 <h2>Apoiadores</h2>
-                <p> Lorem ipsum dolor sit amet consectetur adipisicing elit. Cupiditate, perspiciatis enim mollitia inventore odit quibusdam velit nulla non dolorem</p>
+                <p>Nossos apoiadores são empresas e atores do ecossistema de impacto que contribuem para que a premiação seja rica em conhecimento.</p>
             </div>
             <div class="link-logos">
                 <div class="flex-container">
