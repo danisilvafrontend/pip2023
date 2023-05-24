@@ -1262,7 +1262,12 @@ include 'app/views/header.php';
                             <input type="checkbox" name="" value="concordo">
                             Concordância com os <a class="blue" href="regulamento.php" target="_blank">Termo de Uso, Política de Privacidade de Dados e Termo de Uso de Imagem</a>
                         </label>
-                    </div>   
+                        <label for="">                            
+                            <input type="checkbox" name="" value="concordo-whatsapp">
+                            Concordo em receber notícias e novidades por WhatsApp</a>
+                        </label>
+                    </div>  
+                     
                     <div class="flex-form">
                         <div class="read-more">
                             <a href="#" class="btn bg-gray">Voltar</a>

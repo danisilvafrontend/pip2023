@@ -417,6 +417,16 @@ include 'app/views/header.php';
                                 Sim  (Descreva-a. 25 palavras)
                             </label>
                             <textarea name="message" rows="3" cols="30">Lorem ipsum dolor sit amet consectetur adipisicing elit Lorem ipsum dolor sit amet consectetur adipisicing elit</textarea>
+                        </div>                                 
+                        <div class="flex-form">           
+                            <div class="form-group">                    
+                                <label for="">Link do perfil da empresa na Avaliação de Impacto B</label>
+                                <input type="url" id="" name="url-impactoB">
+                            </div>         
+                            <div class="form-group">                    
+                                <label for="">Nota da Avaliação de Impacto</label>
+                                <input type="text" id="" name="nota-impactoB">
+                            </div>
                         </div>
                         <div class="flex-form">
                             <div class="form-group">                    

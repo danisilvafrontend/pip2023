@@ -21,7 +21,7 @@ include 'app/views/header.php';
                         <!-- dados pessoais para usuários projetos -->
                         <button class="tablink" onclick="openPage('personal-data')" id="defaultOpen">Dados Pessoais</button>
                         <button class="tablink" onclick="openPage('projects-data')">Projetos</button> 
-                        <!-- <button class="tablink" onclick="openPage('homenagens-data')">Homengens</button>  -->
+                        <!-- <button class="tablink" onclick="openPage('homenagens-data')">Homenagens</button>  -->
                     </div>
                     
                     <!-- tab usuário comum -->
