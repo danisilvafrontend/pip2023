@@ -21,7 +21,7 @@ include 'app/views/header.php';
                         <!-- dados pessoais para usuários projetos -->
                         <button class="tablink" onclick="openPage('personal-data')" id="defaultOpen">Dados Pessoais</button>
                         <button class="tablink" onclick="openPage('projects-data')">Projetos</button> 
-                        <button class="tablink" onclick="openPage('homenagens-data')">Homengens</button> 
+                        <!-- <button class="tablink" onclick="openPage('homenagens-data')">Homengens</button>  -->
                     </div>
                     
                     <!-- tab usuário comum -->
@@ -188,7 +188,7 @@ include 'app/views/header.php';
                         </div>
                     </div>
 
-                    <div id="homenagens-data" class="tabcontent">
+                    <!-- <div id="homenagens-data" class="tabcontent">
                         <h3>Minhas Indicações</h3>
                         <div class="list-impacts">
                             <div class="list-item flex-container">
@@ -228,7 +228,7 @@ include 'app/views/header.php';
                                 </div>
                             </div>
                         </div>
-                    </div>
+                    </div> -->
 
                 </div>
                 <div class="sidebar">
