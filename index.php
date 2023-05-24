@@ -311,25 +311,23 @@ include 'app/views/header.php';
             <div class="col-sponsors flex-container">
                 <div class="title">
                     <h3>Parceiros Institucionais</h3>
-                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. </p>
                 </div>    
                 <div class="logo-sponsors">
                     <div class="img-sponsors">
                         <img src="app/assets/images/enimpactos.png" alt="Enimpacto"/>
                     </div>
-                    <div class="img-sponsors">
+                    <!-- <div class="img-sponsors">
                         <img src="app/assets/images/pnud.png" alt="PNUD"/>
                     </div>
                     <div class="img-sponsors">
                         <img src="app/assets/images/enimpactos.png" alt="Enimpacto"/>
-                    </div>
+                    </div> -->
                 </div> 
             </div> 
 
             <div class="col-sponsors flex-container">                
                 <div class="title">
                     <h3>Patrocinadores 2023</h3>
-                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. </p>
                 </div>    
                 <div class="logo-sponsors">
                     <div class="img-sponsors">
