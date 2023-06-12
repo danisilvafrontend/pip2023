@@ -1260,6 +1260,54 @@ footer .description{
     }
 }
 
+/* PUBLI MURI */
+.publi-muri{
+    padding: 40px 0;
+    text-align: center;
+}
+.publi-muri .conteudo-publi{
+    width: 100%;    
+}
+.conteudo-publi h2{
+    font-size: 28px;
+}
+.conteudo-publi h2 span{
+    font-weight: bold;
+    text-transform: uppercase;
+}
+.publi-muri .imagem-publi{
+    width: 100%;
+    margin-top: 30px;
+}
+@media  screen and (min-width: 1140px){
+    .publi-muri{
+        text-align: left;
+    }
+    .publi-muri .conteudo-publi{
+        width: 60%;
+    }
+    .conteudo-publi h2{
+        font-size: 45px;
+    }
+    .publi-muri .imagem-publi{
+        width: 40%;
+        margin-top: 0;
+    }
+}
+/* ADS HOME */
+.ads-home{
+    padding-top: 60px;
+}
+.ads-home .img-ads{
+    width: 90%;
+    margin: 15px auto;
+}
+@media  screen and (min-width: 1140px){
+    .ads-home .img-ads{
+        width: 45%;
+        margin: 0 auto;
+    }
+}
 /* MATÉRIAS */
 .materias{
     padding: 50px 0;
@@ -2210,7 +2258,11 @@ ul.list-inline li:last-child{
     padding-top: 60px;
     align-items: flex-start;
 }
+.flex-container.selecao-form{
+    justify-content: space-between;
+}
 .btn-project{
+    width: 100%;
     display: flex;
     justify-content: space-evenly;
     flex-direction: row;
@@ -2218,13 +2270,13 @@ ul.list-inline li:last-child{
     padding: 40px 0;
     margin-bottom: 40px;
     box-shadow: 5px 3px 10px #595959;
+    text-align: center;
 }
 .btn-img{
     width: 15%;
 }
 .btn-txt{
-    width: 85%;
-    padding-right: 40px;
+    width: 90%;
 }
 .btn-project h3{
     margin-bottom: 15px;
@@ -2271,7 +2323,14 @@ ul.list-inline li:last-child{
     }
     .btn-project{        
         margin-bottom: 100px;
+        width: 45%;
     }
+}
+.indicacao{
+    text-align: center;
+}
+.indicacao h3{
+    margin-bottom: 15px;
 }
 /* form */
 .regForm .page-header{

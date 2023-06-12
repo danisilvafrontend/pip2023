@@ -821,6 +821,38 @@ include 'app/views/header.php';
         </div>
     </section> -->
 
+    <section class="publi-muri">
+        <div class="container">
+            <div class="flex-container">
+                <div class="conteudo-publi">
+                    <div class="title">
+                        <h2>Conheça a Coleção de Camisetas <span>Somos Muri</span> Impactos Positivos</h2>
+                        <p>Lorem ipsum dolor sit amet, consectetur adip</p>
+                    </div>
+                    <div class="read-more">
+                        <a href="#" class="bg-gray btn">Quero conhecer a coleção!</a>
+                    </div>
+                </div>
+                <div class="imagem-publi">
+                    <img src="app/assets/images/camisas-muri.png" alt="Coleção Muri Impactos Positivos" />
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="ads-home">
+        <div class="container">
+            <div class="flex-container">
+                <div class="img-ads">
+                    <img class="ads-img" src="app/assets/images/ads-home.jpg" />
+                </div> 
+                <div class="img-ads">
+                    <img class="ads-img" src="app/assets/images/ads-home.jpg" />
+                </div> 
+            </div>
+        </div>
+    </section>
+
 
     <section class="latest-news">
         <div class="container">
@@ -891,7 +923,6 @@ include 'app/views/header.php';
                     </ul>
                 </div>
             </div>
-
             
             <div class="read-more">
                 <a href="#" class="bg-gray btn">Acessar portal</a>
@@ -1464,9 +1495,7 @@ include 'app/views/header.php';
                     </div>
                 </div>
             </div>
-        </article>  
-        
-        
+        </article>    
 
         <article class="midias">
             <div class="container">                

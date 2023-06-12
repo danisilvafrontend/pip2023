@@ -13,24 +13,33 @@ include 'app/views/header.php';
                     <div class="page-header">
                         <h1>Escolha sua Categoria</h1>
                     </div>
-                    <div class="btn-project">
-                        <div class="btn-img">
-                            <a href="form-projects-bus.php"><img src="app/assets/images/icon-business.svg"/></a>
+                    <div class="flex-container selecao-form">
+                        <div class="btn-project">
+                            <!-- <div class="btn-img">
+                                <a href="form-projects-bus.php"><img src="app/assets/images/icon-business.svg"/></a>
+                            </div> -->
+                            <div class="btn-txt">
+                                <h3><a href="form-projects-bus.php">Negócio de Impacto</a> </h3>
+                                <p>Negócios (empresas e iniciativas) que se destacam no ecossistema de impacto</p>
+                                <p class="button"><a href="form-projects-bus.php" class="btn bg-gray">Inscrever agora</a></p>
+                            </div>
                         </div>
-                        <div class="btn-txt">
-                            <h3><a href="form-projects-bus.php">Negócio de Impacto</a> </h3>
-                            <p>Negócios (empresas e iniciativas) que se destacam no ecossistema de impacto</p>
-                            <p class="button"><a href="form-projects-bus.php" class="btn bg-gray">Inscrever agora</a></p>
+                        <div class="btn-project">
+                            <!-- <div class="btn-img">
+                                <a href="form-projects-eco.php"><img src="app/assets/images/icon-ecosystem.svg"/></a>
+                            </div> -->
+                            <div class="btn-txt">
+                                <h3><a href="form-projects-eco.php">Ecossistema de Impacto</a></h3>
+                                <p>Organizações do Ecossistema de Impacto do Brasil</p>
+                                <p class="button"><a href="form-projects-eco.php" class="btn bg-gray">Inscrever agora</a></p>
+                            </div>
                         </div>
                     </div>
-                    <div class="btn-project">
-                        <div class="btn-img">
-                            <a href="form-projects-eco.php"><img src="app/assets/images/icon-ecosystem.svg"/></a>
-                        </div>
-                        <div class="btn-txt">
-                            <h3><a href="form-projects-eco.php">Ecossistema de Impacto</a></h3>
-                            <p>Organizações do Ecossistema de Impacto do Brasil</p>
-                            <p class="button"><a href="form-projects-eco.php" class="btn bg-gray">Inscrever agora</a></p>
+                    <div class="indicacao">
+                        <h3>Indique um Negócio de Impacto para se inscrever</h3>
+                        <p>Convide para o Prêmio Impactos Positivos e ajude a dar visibilidade para empresas que estão direta ou indiretamente participando da transformação e fomentação do ecossistema de impacto do Brasil.</p>
+                        <div class="read-more">
+                            <a href="https://api.whatsapp.com/send?phone=&text=Gostaria de compartilhar com você o link da 4º edição do Prêmio Impactos Positivos. Uma iniciativa que tem como objetivo estimular o entendimento, reconhecimento e a valorização do ecossistema de impacto do Brasil. Conheça mais sobre o PIP e inscreva seu negócio na plataforma! %0a https://impactospositivos.com/" class="btn bg-gray"><i class="fab fa-whatsapp"></i> Compartilhar no WhatsApp</a>
                         </div>
                     </div>
                 </div>
