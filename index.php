@@ -306,9 +306,9 @@ include 'app/views/header.php';
         </div>
     </section> -->
     
-    <section class="sponsors flex-container">
-        <div class="container">
-            <div class="col-sponsors flex-container">
+    <section class="sponsors">
+        <div class="container flex-container">
+            <div class="col-sponsors">
                 <div class="title">
                     <h3>Parceiros Institucionais</h3>
                 </div>    
@@ -316,16 +316,16 @@ include 'app/views/header.php';
                     <div class="img-sponsors">
                         <img src="app/assets/images/enimpactos.png" alt="Enimpacto"/>
                     </div>
-                    <!-- <div class="img-sponsors">
+                    <div class="img-sponsors">
                         <img src="app/assets/images/pnud.png" alt="PNUD"/>
                     </div>
                     <div class="img-sponsors">
-                        <img src="app/assets/images/enimpactos.png" alt="Enimpacto"/>
-                    </div> -->
+                        <img src="app/assets/images/logo-virada-ods-2023.png" alt="Virada ODS São Paulo"/>
+                    </div>
                 </div> 
             </div> 
 
-            <div class="col-sponsors flex-container">                
+            <div class="col-sponsors">                
                 <div class="title">
                     <h3>Patrocinadores 2023</h3>
                 </div>    
@@ -710,32 +710,9 @@ include 'app/views/header.php';
                         </div>
                     </div>
                 </div>
-                <!-- <div class="col-sponsors">
-                    <div class="title">
-                        <h3>Parceiros Institucionais</h3>
-                    </div>    
-                    <div class="logo-sponsors">
-                        <div class="img-sponsors">
-                            <img src="app/assets/images/enimpactos.png" alt="Enimpacto"/>
-                        </div>
-                    </div> 
-                    
-                    <div class="title">
-                        <h3>Patrocinadores</h3>
-                    </div>    
-                    <div class="logo-sponsors">
-                        <div class="img-sponsors">
-                            <img src="app/assets/images/sebrae.png" alt=""/>
-                        </div>
-                        <div class="img-sponsors">
-                            <img src="app/assets/images/cubo-esg.jpg" alt=""/>
-                        </div>
-                    </div> 
-                    
-                    <div class="img-ads">
-                        <img class="ads-img" src="app/assets/images/ads-post.png" />
-                    </div>              
-                </div>  -->
+                <div class="publi-muri"> 
+                    <img src="app/assets/images/banner-muri.png" />
+                </div> 
             </article>
         </div>
     </section>
@@ -820,25 +797,6 @@ include 'app/views/header.php';
             </div>
         </div>
     </section> -->
-
-    <section class="publi-muri">
-        <div class="container">
-            <div class="flex-container">
-                <div class="conteudo-publi">
-                    <div class="title">
-                        <h2>Conheça a Coleção de Camisetas <span>Somos Muri</span> Impactos Positivos</h2>
-                        <p>Lorem ipsum dolor sit amet, consectetur adip</p>
-                    </div>
-                    <div class="read-more">
-                        <a href="#" class="bg-gray btn">Quero conhecer a coleção!</a>
-                    </div>
-                </div>
-                <div class="imagem-publi">
-                    <img src="app/assets/images/camisas-muri.png" alt="Coleção Muri Impactos Positivos" />
-                </div>
-            </div>
-        </div>
-    </section>
 
     <section class="ads-home">
         <div class="container">
@@ -1443,8 +1401,8 @@ include 'app/views/header.php';
         
     </section> -->
 
-    <!-- <section class="trends"> 
-        <article class="trend-news">
+    <section class="trends"> 
+        <!-- <article class="trend-news">
             <div class="container flex-container">
                 <div class="col-title">
                     <div class="title">
@@ -1495,9 +1453,9 @@ include 'app/views/header.php';
                     </div>
                 </div>
             </div>
-        </article>    
+        </article>     -->
 
-        <article class="midias">
+        <!-- <article class="midias">
             <div class="container">                
                 <div class="content-midia">
                     <div class="title">
@@ -1604,16 +1562,13 @@ include 'app/views/header.php';
                     </div>                          
                 </div>
             </div>        
-        </article>
+        </article> -->
     
         <article class="podcast">
             <div class="container flex-container">
                 <div class="col-title">
                     <div class="title">
                         <h2>Podcast</h2>
-                    </div>
-                    <div class="description">
-                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Id ducimus possimus aliquid recusandae repellendus cupiditate nesciunt</p>
                     </div>
                     <div class="read-more">
                         <a class="btn bg-gray" href="podcast.php" title="">Ver todos</a>
@@ -1689,7 +1644,7 @@ include 'app/views/header.php';
                 </div>
             </div>
         </article>        
-    </section> -->
+    </section>
 
 </main>
 
