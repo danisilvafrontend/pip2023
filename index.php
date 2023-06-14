@@ -313,12 +313,12 @@ include 'app/views/header.php';
                     <h3>Parceiros Institucionais</h3>
                 </div>    
                 <div class="logo-sponsors">
-                    <div class="img-sponsors">
+                    <!-- <div class="img-sponsors">
                         <img src="app/assets/images/enimpactos.png" alt="Enimpacto"/>
                     </div>
                     <div class="img-sponsors">
                         <img src="app/assets/images/pnud.png" alt="PNUD"/>
-                    </div>
+                    </div> -->
                     <div class="img-sponsors">
                         <img src="app/assets/images/logo-virada-ods-2023.png" alt="Virada ODS São Paulo"/>
                     </div>
@@ -327,11 +327,11 @@ include 'app/views/header.php';
 
             <div class="col-sponsors">                
                 <div class="title">
-                    <h3>Patrocinadores 2023</h3>
+                    <h3>Patrocinadores</h3>
                 </div>    
                 <div class="logo-sponsors">
                     <div class="img-sponsors">
-                        <img src="app/assets/images/sebrae.png" alt=""/>
+                        <img src="app/assets/images/sebrae-nacional.png" alt=""/>
                     </div>
                     <div class="img-sponsors">
                         <img src="app/assets/images/cubo-esg.jpg" alt=""/>
@@ -344,8 +344,8 @@ include 'app/views/header.php';
     <section class="showcases">
         <div class="container">
             <div class="title">
-                <h2>Vitrine Prêmio Impactos Positivos 2023</h2>
-                <p>Encontre empresas e organizações cadastradas no Prêmio Impactos Positivos 2023 que desenvolvem projetos, iniciativas e negócios inovadores que impactam positivamente nosso país</p>
+                <h2>Vitrine Prêmio Impactos Positivos</h2>
+                <p>Encontre empresas e organizações cadastradas no Prêmio Impactos Positivos que desenvolvem projetos, iniciativas e negócios inovadores que impactam positivamente nosso país</p>
             </div>
 
             <article class="showcase-flex">
@@ -721,7 +721,8 @@ include 'app/views/header.php';
         <div class="container">
             <div class="title">
                 <h2>Apoiadores</h2>
-                <p>Nossos apoiadores são empresas e atores do ecossistema de impacto que contribuem para que a premiação seja rica em conhecimento.</p>
+                <p>Os apoiadores do <strong>Prêmio Impactos Positivos</strong> são empresas, empreendedores e profissionais que já atuam e acreditam na importância de fomentar o ecossistema de impacto no Brasil e seus negócios. <strong>Todas as premiações ofertadas aos vencedores no final da edição 2023, são fornecidas pelas empresas apoiadoras do Prêmio.</strong></p>
+                <p>Esses apoiadores contribuem compartilhando além de muita informação e tendências do setor, seus conhecimentos para os participantes em formato de mentorias, cursos e consultorias personalizadas para cada ganhador do Prêmio.</p>
             </div>
             <div class="link-logos">
                 <div class="flex-container">
