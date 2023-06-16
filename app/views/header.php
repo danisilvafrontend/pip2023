@@ -63,12 +63,12 @@
                                 </div>
                             </div> 
                             <div class="dropdown">
-                                <button class="dropbtn">Prêmio 2023 
+                                <button class="dropbtn">Prêmio 
                                     <i class="fa fa-caret-down"></i>
                                 </button>
                                 <div class="dropdown-content">
                                     <a href="projects.php">Vitrine 2023</a>
-                                    <a href="projetos-fases.php">Ranking</a>
+                                    <!-- <a href="projetos-fases.php">Ranking</a> -->
                                     <!-- <a href="homenagens.php">Homenagens</a> -->
                                     <a href="cronograma.php">Cronograma</a>
                                     <a href="#">Como participar</a>

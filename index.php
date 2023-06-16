@@ -711,7 +711,12 @@ include 'app/views/header.php';
                     </div>
                 </div>
                 <div class="publi-muri"> 
-                    <img src="app/assets/images/banner-muri.png" />
+                    <div class="banner-desktop">
+                        <a href="https://www.somosmuri.com.br/somosmuri?collection=IMPACTOS+POSITIVOS" target="_blank"><img src="app/assets/images/banner-muri.jpg" /></a>
+                    </div>
+                    <div class="banner-mobile">
+                        <a href="https://www.somosmuri.com.br/somosmuri?collection=IMPACTOS+POSITIVOS" target="_blank"><img src="app/assets/images/MURI-Impactos-Positivos-Banner-02.webp" /></a>
+                    </div>
                 </div> 
             </article>
         </div>

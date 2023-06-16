@@ -1216,7 +1216,7 @@ include 'app/views/header.php';
                     </div>
                     <div class="form-group">                    
                         <label for="">Descreva as atividades de sua organização</label>
-                        <textarea name="message" rows="5" maxlength="70" placeholder="até 250 caracteres"></textarea>
+                        <textarea name="message" rows="5" maxlength="250" placeholder="até 250 caracteres"></textarea>
                     </div>
                     <div class="form-group">                    
                         <label for="">Relacione três palavras-chave que melhor identificam a atuação de sua organização.  </label>
