@@ -36,7 +36,7 @@ include 'app/views/header.php';
                             </div>
                         </div>
                         <div class="votacao">
-                            <div class="votos">Votação a partir de<br><span class="number-votos"> 15 de agosto</span></div>
+                            <div class="votos">Votação a partir de<br><span class="number-votos"> 01 de setembro</span></div>
                             <!-- mostrar quando abrir as votações -->
                             <div class="votos"><span class="number-votos">3521</span> voto(s)</div>       
                             <div class="button">
