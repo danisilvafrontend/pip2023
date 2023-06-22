@@ -74,7 +74,7 @@
                                     <a href="#">Como participar</a>
                                     <a href="#">Política</a>
                                     <a href="#">Premiação</a>
-                                    <a href="eventos.php">Edição 2022</a>
+                                    <!-- <a href="eventos.php">Edição 2022</a> -->
                                 </div>
                             </div> 
                         </div>                    

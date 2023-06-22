@@ -344,7 +344,7 @@ include 'app/views/header.php';
     <section class="showcases">
         <div class="container">
             <div class="title">
-                <h2>Vitrine Prêmio Impactos Positivos</h2>
+                <h2>Vitrine Prêmio Impactos Positivos 2023</h2>
                 <p>Encontre empresas e organizações cadastradas no Prêmio Impactos Positivos que desenvolvem projetos, iniciativas e negócios inovadores que impactam positivamente nosso país</p>
             </div>
 

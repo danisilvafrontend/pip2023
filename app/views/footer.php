@@ -52,7 +52,7 @@
             <div class="events-links-footer">
                 <h4>Premiação</h4>
                 <ul>
-                    <li><a href="projects.php">Vitrine 2022</a></li>
+                    <li><a href="projects.php">Vitrine 2023</a></li>
                     <li><a href="homenagens.php">Homenagens</a></li>
                     <li><a href="">Cronograma</a> </li>
                     <li><a href="">Como Participar</a></li>

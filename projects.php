@@ -11,7 +11,7 @@ include 'app/views/header.php';
                 <!-- content -->
                 <div class="content">
                     <div class="page-header">
-                        <h1>Projetos 2022<br>
+                        <h1>Projetos 2023<br>
                         <small><span class="categoria-title">Ecossistema de Impacto</span><span class="sub-categoria-title"> | Dinamizadores</span></small></h1>
                         <p>A votação do Prêmio Impactos Positivos 2022 acontece aqui dentro da Vitrine.<br>
                         Acesse a lista abaixo e apoie os projetos que impactam positivamente nosso país.<br>
