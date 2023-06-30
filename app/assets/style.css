@@ -2118,7 +2118,7 @@ source{
 .list-projects .card-project{
     width: 100%;
     margin: 0 5px 50px 5px;
-    background: #f8f8ff;
+    border: 1px solid #f1f1f1;
 }
 .buttons-projetos{
     margin-top: 15px;
@@ -3029,9 +3029,6 @@ fieldset.step h2::before{
     border-bottom: 1px solid #ccc;
     padding-right: 20px;
 }
-.page-projects .page-header h1{
-    color: #33cc99;
-}
 .categoty-project{
     font-size: 24px;
     text-transform: uppercase;
@@ -3049,9 +3046,6 @@ fieldset.step h2::before{
 }
 .dados-instituicao, .votacao{
     line-height: 2;
-}
-.votos{    
-    color: #32a7df;
 }
 .votos .number-votos{
     font-weight: bold;
@@ -3830,5 +3824,53 @@ button.bg-none:hover{
     }
     .card_img{
         width: 100%;
+    }
+}
+
+/* DEPOIMENTOS */
+.depoimentos{
+    padding-top: 60px;
+}
+.depoimento{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+.depoimento .imagem{
+    width: 100%;
+}
+.depoimento .imagem img{
+    width: 60%;
+    margin: 0 auto;
+}
+.depoimento .conteudo-depoimento{
+    width: 100%;
+    padding: 20px;
+    background: #fbfbfb;
+    border: 1px solid #f1f1f1;
+    border-radius: 8px;
+}
+.depoimento .nome{
+    margin-top:15px;
+    text-align: right;
+}
+.depoimento span{
+    font-size: 13px;
+}
+.depoimentos .title{
+    text-align: center;
+    margin-bottom: 30px;
+    text-transform: uppercase;
+    font-size: 22px;
+    font-family: Gothan, sans-serif;
+}
+@media  screen and (min-width: 768px){
+    .depoimento .imagem{
+        width: 30%;
+    }
+    .depoimento .conteudo-depoimento{
+        width: 70%;
+        padding: 30px;
+        line-height: 1.5;
     }
 }

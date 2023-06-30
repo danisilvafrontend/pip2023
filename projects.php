@@ -13,7 +13,7 @@ include 'app/views/header.php';
                     <div class="page-header">
                         <h1>Projetos 2023<br>
                         <small><span class="categoria-title">Ecossistema de Impacto</span><span class="sub-categoria-title"> | Dinamizadores</span></small></h1>
-                        <p>A votação do Prêmio Impactos Positivos 2022 acontece aqui dentro da Vitrine.<br>
+                        <p>A votação do Prêmio Impactos Positivos 2023 acontece aqui dentro da Vitrine.<br>
                         Acesse a lista abaixo e apoie os projetos que impactam positivamente nosso país.<br>
                         Você poderá votar uma única vez em um mesmo projeto, mas poderá votar em quantos projetos se interessar.<br>
                         Ajude a fomentar o nosso ecossistema de impacto votando e dando visibilidade para mais projetos, conheça os negócios participantes:</p>
@@ -56,7 +56,7 @@ include 'app/views/header.php';
                                 </div>
                             </div>                            
                             <div class="buttons-projetos">
-                                <a href="#" class="btn bg-border">Ver Projeto</a>
+                                <a href="project-single.php" class="btn bg-border">Ver Projeto</a>
                                 <!-- BOTÃO PARA QUANDO COMEÇAR A VOTAÇÃO -->
                                 <button type="button" class="btn bg-green">Votar Agora</button>
                                 <!-- TEXTO PARA QUANDO ENCERRAR VOTAÇÃO -->

@@ -804,7 +804,7 @@ include 'app/views/header.php';
         </div>
     </section> -->
 
-    <section class="ads-home">
+    <!-- <section class="ads-home">
         <div class="container">
             <div class="flex-container">
                 <div class="img-ads">
@@ -815,7 +815,7 @@ include 'app/views/header.php';
                 </div> 
             </div>
         </div>
-    </section>
+    </section> -->
 
 
     <section class="latest-news">
@@ -1407,8 +1407,85 @@ include 'app/views/header.php';
         
     </section> -->
 
-    <section class="trends"> 
-        <!-- <article class="trend-news">
+    <section class="depoimentos">
+        <div class="container">
+            <div class="title">
+                <h2>Depoimentos dos negócios vencedores da edição 2022</h2>
+            </div>
+            <div class="carrossel-depoimentos">
+                
+                <div class="item depoimento">
+                    <div class="flex-container">
+                        <div class="imagem">
+                            <img src="https://impactospositivos.com/storage/projeto/zEsjJE4niDAULfr3oTZ2L0jQbaiAgJ7oaPA4PSMo.png" alt="Departamento de Educação Social da Secretaria de Educação de Intanhaém" />
+                        </div>
+                        <div class="conteudo-depoimento">
+                                <p>"Nós não sabíamos que poderíamos ir tão longe! Quando participamos do prêmio Impactos Positivos 2022. O nosso projeto - Mocambo Avicultura Naturalizada,  estava somente na ideia, no papel e no nosso coração. Fomos apoiados por amigos que quando conheceram a nossa proposta, nos deram muita força para ir mais longe. Através do Prêmio Impactos Positivos, começamos a ter maior visibilidade, fomos convidados para apresentar o nosso projeto em vários espaços, como programas, e universidades aqui na Paraíba. Fizemos muitas articulações a partir da campanha para conseguir votos. Fomos selecionados para o Rio Innovation Week e fomos aprovados no Centelha PB. Em abril 2023, vamos dar início ao nosso protótipo na comunidade quilombola Sr. Do Bonfim , em Areia na Paraíba. Estamos sendo assessorados com as mentorias e os apoiadores, um pessoal que tem uma grande bagagem, e comprometimento. Temos aprendido muito e tudo isso tem nos tornado mais fortes. Estamos muito felizes com tudo o que aconteceu e agora, diferente do começo, temos certeza que ainda teremos uma grande história. O Projeto Mocambo - Sistema Sustentável de Avicultura Naturalizada só tem a agradecer a toda a equipe do Prêmio Impactos Positivos por esta rica oportunidade."</p>
+                                <div class="nome">
+                                    <p><strong>Mocambo Avicultura Naturalizada</strong></p>
+                                    <p><span><strong>Vencedor de 2022</strong> | Negócio de Impacto - Ideação</span></p>
+                                </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="item depoimento">
+                    <div class="flex-container">
+                        <div class="imagem">
+                            <img src="https://impactospositivos.com/storage/projeto/rC0cyrQ3VI14bwnfJ85gAGKWbyCH33QjyMYEAPMd.png" alt="Acmella Beauty" />
+                        </div>
+                        <div class="conteudo-depoimento">
+                                <p>"A importância de participar do Prêmio Impactos Positivos, é um reconhecimento que nossa marca, nosso propósito e visão realmente tem gerado impactos positivos. Todo processo de premiação, como foi feito a seleção, os processos de votação e o próprio dia do encontro foi uma alegria para a gente. O Prêmio precisa ter mais divulgação e reconhecimento pelo Ecossistema, nosso próprio ecossistema do estado Pará não conhecia o prêmio. E ficamos muito gratos em como foram distribuídos os prêmios, por capacitação em mentorias. Que é o momento que a Acmella está hoje, justamente criando e estabelecendo um modelo de negócios pronto para investidores. Então estamos iniciando a produção em larga escala e ao mesmo tempo, trabalhando com investidores no Brasil e criando parcerias internacionais."</p>
+                                <div class="nome">
+                                    <p><strong>Acmella Beauty</strong></p>
+                                    <p><span><strong>Vencedor de 2022</strong> | Negócio de Impacto - Operação</span></p>
+                                </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="item depoimento">
+                    <div class="flex-container">
+                        <div class="imagem">
+                            <img src="https://impactospositivos.com/storage/projeto/BYSF0CedKqz4s9aiEY1ZfeiXn8Bf5PZmZspc0sii.jpg" alt="Central da Visão" />
+                        </div>
+                        <div class="conteudo-depoimento">
+                                <p>"Vencer o Prêmio Impactos Positivos foi muito importante para reconhecer o trabalho de toda nossa equipe e, também, dar visibilidade para o trabalho que a Central da Visão faz. Como negócio de impacto, sabemos o quanto nosso trabalho muda a vida das pessoas. Mas, para o público externo, muitas vezes o impacto não é tão claro. Por isso, é fundamental uma comunicação constante e o Prêmio Impactos Positivos contribui para chamar atenção para o que fazemos."</p>
+                                <div class="nome">
+                                    <p><strong>Central da Visão</strong></p>
+                                    <p><span><strong>Vencedor de 2022</strong> | Negócio de Impacto - Tração</span></p>
+                                </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="item depoimento">
+                    <div class="flex-container">
+                        <div class="imagem">
+                            <img src="https://impactospositivos.com/storage/projeto/arULWiR3QZUc9okqiEsYsng9WKhDMCLLvwC5OBYY.png" alt="Departamento de Educação Social da Secretaria de Educação de Intanhaém" />
+                        </div>
+                        <div class="conteudo-depoimento">
+                                <p>"Para o Departamento de Educação Social  da Secretaria de Educação de Itanhaém, participar e ganhar o Prêmio Impactos Positivos, principalmente a votação popular, é a certeza que nosso propósito está sendo atingido que é transformar a vida de nossos jovens em situação de vulnerabilidade através da aprendizagem profissional no Programa Inclusão Produtiva Jovem."</p>
+                                <div class="nome">
+                                    <p><strong>Departamento de Educação Social da Secretaria de Educação de Intanhaém</strong></p>
+                                    <p><span><strong>Vencedor de 2022</strong> | Ecossistema de Impacto - Dinamizador</span></p>
+                                </div>
+                        </div>
+                    </div>
+                </div>
+                
+            </div>
+                
+            <div class="nav-depoimentos">
+                <a id="prev-depoimentos" class="icon arrow-left">
+                    <i class="fas fa-chevron-left"></i>
+                </a>
+                <a id="next-depoimentos" class="icon arrow-right">
+                    <i class="fas fa-chevron-right"></i>
+                </a>
+            </div>
+        </div>
+    </section>
+
+    <!-- <section class="trends"> 
+        <article class="trend-news">
             <div class="container flex-container">
                 <div class="col-title">
                     <div class="title">
@@ -1459,9 +1536,9 @@ include 'app/views/header.php';
                     </div>
                 </div>
             </div>
-        </article>     -->
+        </article>    
 
-        <!-- <article class="midias">
+        <article class="midias">
             <div class="container">                
                 <div class="content-midia">
                     <div class="title">
@@ -1568,7 +1645,7 @@ include 'app/views/header.php';
                     </div>                          
                 </div>
             </div>        
-        </article> -->
+        </article>
     
         <article class="podcast">
             <div class="container flex-container">
@@ -1650,7 +1727,7 @@ include 'app/views/header.php';
                 </div>
             </div>
         </article>        
-    </section>
+    </section> -->
 
 </main>
 

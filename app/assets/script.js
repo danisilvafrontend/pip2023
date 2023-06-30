@@ -278,6 +278,21 @@ $(function () {
       })
     })
 
+    // CARROSSEL DEPOIMENTOS
+    $(function () {
+
+      $('.carrossel-depoimentos').slick({
+          infinite: true,
+          slidesToShow: 1,
+          slidesToScroll: 1,           
+          autoplaySpeed: 3500,  
+          autoplay: true,
+
+          prevArrow: $('#prev-depoimentos'),
+          nextArrow: $('#next-depoimentos')
+      })
+    })
+
   
 
 // TAB MY ACCOUNT
