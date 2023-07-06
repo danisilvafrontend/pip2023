@@ -1529,7 +1529,6 @@ ul.list-tags li:last-child{
 }
 .img-logo{
     width: 100%;
-    padding: 10px;
 }
 .further .apoiadores .link-logos{
     padding: 0;
@@ -1593,7 +1592,7 @@ ul.list-tags li:last-child{
         width: 60%;
     }
     .apoiadores .link-logos{
-        width: 90%;
+        width: 100%;
     
     }
     .apoiadores .logo-item{
@@ -1602,7 +1601,7 @@ ul.list-tags li:last-child{
     }
     
     .apoiadores .img-logo img{
-        height: 70px;
+        height: 80px;
     }
 
 }

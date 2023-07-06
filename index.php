@@ -733,52 +733,77 @@ include 'app/views/header.php';
                 <div class="flex-container">
                     <div class="logo-item">
                         <div class="img-logo">
-                            <a href=""><img src="app/assets/images/logo-further/innov8.png" alt=""/></a>
+                            <a href=""><img src="app/assets/images/logo-further/Sistema B - Apoaidor copiar.webp" alt=""/></a>
                         </div>
                     </div>
                     <div class="logo-item">
                         <div class="img-logo">
-                            <a href=""><img src="app/assets/images/logo-further/assis-mendes.png" alt=""/></a>
+                            <a href=""><img src="app/assets/images/logo-further/Capitalismo Consciente - Apoaidor.png" alt=""/></a>
                         </div>
                     </div>
                     <div class="logo-item">
                         <div class="img-logo">
-                            <a href=""><img src="app/assets/images/logo-further/humanizadas.png" alt=""/></a>
+                            <a href=""><img src="app/assets/images/logo-further/Yunus Negócios Sociais - Apoaidor.png" alt=""/></a>
                         </div>
                     </div>
                     <div class="logo-item">
                         <div class="img-logo">
-                            <a href=""><img src="app/assets/images/logo-further/instituto da transformaco digital.png" alt=""/></a>
+                            <a href=""><img src="app/assets/images/logo-further/FIAP - Apoiador.png" alt=""/></a>
                         </div>
                     </div>
                     <div class="logo-item">
                         <div class="img-logo">
-                            <a href=""><img src="app/assets/images/logo-further/capitalismo-consciente.png" alt=""/></a>
+                            <a href=""><img src="app/assets/images/logo-further/Gonew.co - Apoaidor.png" alt=""/></a>
                         </div>
                     </div>
                     <div class="logo-item">
                         <div class="img-logo">
-                            <a href=""><img src="app/assets/images/logo-further/comunidade-cuidadoria.png" alt=""/></a>
+                            <a href=""><img src="app/assets/images/logo-further/Somos Muri - Apoiador.png" alt=""/></a>
                         </div>
                     </div>
                     <div class="logo-item">
                         <div class="img-logo">
-                            <a href=""><img src="app/assets/images/logo-further/gonew.png" alt=""/></a>
+                            <a href=""><img src="app/assets/images/logo-further/Caetê - Victor Verardo - Apoiador.png" alt=""/></a>
                         </div>
                     </div>
                     <div class="logo-item">
                         <div class="img-logo">
-                            <a href=""><img src="app/assets/images/logo-further/innov8.png" alt=""/></a>
+                            <a href=""><img src="app/assets/images/logo-further/GVA - Apoiador.png" alt=""/></a>
                         </div>
                     </div>
                     <div class="logo-item">
                         <div class="img-logo">
-                            <a href=""><img src="app/assets/images/logo-further/assis-mendes.png" alt=""/></a>
+                            <a href=""><img src="app/assets/images/logo-further/Assis_Mendes - Apoaidor.png" alt=""/></a>
                         </div>
                     </div>
                     <div class="logo-item">
                         <div class="img-logo">
-                            <a href=""><img src="app/assets/images/logo-further/humanizadas.png" alt=""/></a>
+                            <a href=""><img src="app/assets/images/logo-further/Soul Finance - Apoaidor.jpg.webp" alt=""/></a>
+                        </div>
+                    </div>                    
+                    <div class="logo-item">
+                        <div class="img-logo">
+                            <a href=""><img src="app/assets/images/logo-further/Cèdre Consultoria - Apoaidor.png" alt=""/></a>
+                        </div>
+                    </div>                    
+                    <div class="logo-item">
+                        <div class="img-logo">
+                            <a href=""><img src="app/assets/images/logo-further/Innov8 - Apoaidor.png" alt=""/></a>
+                        </div>
+                    </div>                   
+                    <div class="logo-item">
+                        <div class="img-logo">
+                            <a href=""><img src="app/assets/images/logo-further/Pinho Pinheiro - Apoaidor.png" alt=""/></a>
+                        </div>
+                    </div>            
+                    <div class="logo-item">
+                        <div class="img-logo">
+                            <a href=""><img src="app/assets/images/logo-further/LOGO LG CONSULTORIA.png" alt=""/></a>
+                        </div>
+                    </div>           
+                    <div class="logo-item">
+                        <div class="img-logo">
+                            <a href=""><img src="app/assets/images/logo-further/valiant.webp" alt=""/></a>
                         </div>
                     </div>
                 </div>   
