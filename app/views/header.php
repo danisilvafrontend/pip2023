@@ -47,7 +47,7 @@
                                 <div class="dropdown-content">
                                     <a href="about-us.php">Quem Somos</a>
                                     <a href="projects.php">Manifesto</a>
-                                    <!-- <a href="#">Edições Anteriores</a> -->
+                                    <a href="edicao-2022.php">Edição 2022</a>
                                 </div>
                             </div>
                             <div class="dropdown">
@@ -68,13 +68,14 @@
                                 </button>
                                 <div class="dropdown-content">
                                     <a href="projects.php">Vitrine 2023</a>
+                                    <a href="apoiadores.php">Apoiadores</a>
                                     <!-- <a href="projetos-fases.php">Ranking</a> -->
                                     <!-- <a href="homenagens.php">Homenagens</a> -->
                                     <a href="cronograma.php">Cronograma</a>
                                     <a href="#">Como participar</a>
                                     <a href="#">Política</a>
                                     <a href="#">Premiação</a>
-                                    <!-- <a href="eventos.php">Edição 2022</a> -->
+                                    
                                 </div>
                             </div> 
                         </div>                    

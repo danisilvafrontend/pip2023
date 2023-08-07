@@ -808,6 +808,9 @@ include 'app/views/header.php';
                     </div>
                 </div>   
             </div>
+            <div class="read-more">
+                <a href="apoiadores.php" class="btn bg-border">Conheça mais sobre nossos apoiadores</a>
+            </div>
         </div>
     </section> 
 

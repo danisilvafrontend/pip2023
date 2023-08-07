@@ -566,6 +566,7 @@ button.dropbtn a:hover{
 footer{
     background: #f2f2f2;
     padding: 30px 0;
+    z-index: 9;
 
 }
 .about-footer{
@@ -1570,6 +1571,9 @@ ul.list-tags li:last-child{
     align-items: center;
     flex-wrap: wrap;
     flex-direction: row;
+}
+.apoiadores .read-more{
+    text-align: center;
 }
 @media  screen and (min-width: 1140px){
     
@@ -3480,7 +3484,6 @@ button.bg-none:hover{
     padding: 5px;
     margin-top: 15px;
     width: 100%;
-    height: 450px;
 }
 .workshop .text-evento{
     max-width: 900px;
@@ -3491,11 +3494,11 @@ button.bg-none:hover{
 }
 @media  screen and (min-width: 768px){
     .workshop .video{
-        width: 70%;
+        width: 60%;
         margin: auto;
     }
     .workshop .chat{
-        width: 30%;
+        width: 40%;
         padding: 20px;
     }
 }
@@ -3512,8 +3515,6 @@ button.bg-none:hover{
 }
 .video-evento{
     padding: 40px 0;
-    background: url(images/fundo-video-mobile.jpg) center no-repeat;
-    background-size: cover;
 }
 .eventos .video-evento p{
     text-align: center;
@@ -3545,7 +3546,7 @@ button.bg-none:hover{
 .eventos ul li{
     list-style: none;
     line-height:1.2;
-    padding: 5px 0;
+    padding-bottom: 8px;
     font-size: 16px;
 }
 .eventos ul li span{
@@ -3599,8 +3600,6 @@ button.bg-none:hover{
 }
 .artistas{
     padding: 80px 0;
-    background: url(images/fundo-video-mobile.jpg) center no-repeat;
-    background-size: cover;
 }
 .artistas h2{
     font-weight: bold;
@@ -3634,8 +3633,6 @@ button.bg-none:hover{
     }
     .artistas{
         padding: 40px 0;
-        background: url(images/fundo-video.jpg) center no-repeat;
-        background-size: cover;
     }
     
     .eventos .video-evento p{
@@ -3645,6 +3642,7 @@ button.bg-none:hover{
 @media  screen and (min-width: 1140px){
     .eventos .box-video{
         height: 500px;
+        display: flex;
     }
     .eventos .text-evento{
         max-width: 40%;
@@ -3652,17 +3650,11 @@ button.bg-none:hover{
         font-size: 14px;
         text-align: left;
     }
-    .eventos .agenda-evento{
-        max-width: 60%;
-        padding: 40px 10px;
-    }
     .eventos .apresentacao{
         padding: 0;
     }
     .eventos .video-evento{
-        background: url(images/fundo-video.jpg) center no-repeat;
-        background-size: cover;
-        padding: 100px 0;
+        padding: 60px 0;
     }
     .eventos .text-evento{
         margin: 0 auto;
@@ -3677,6 +3669,24 @@ button.bg-none:hover{
     }
     .eventos .col-articles{
         width: 100%!important;
+    }
+    .eventos ul{
+        margin-top: 0;
+    }
+    .eventos ul li{
+        list-style: none;
+        line-height:1.2;
+        font-size: 11px;
+    }
+    .eventos ul li span{
+        font-size: 13px;
+        font-weight: bold;
+    }
+    .eventos span.hora{
+        color: #32a7df;
+    }
+    .eventos span.tema{
+        text-transform: uppercase;
     }
 }
 
@@ -3716,18 +3726,17 @@ button.bg-none:hover{
     align-items: flex-start;
 }
 .col-categoria{
-    width: 80%;
+    width: 95%;
     padding: 40px 10px;
     margin: 0 auto;
 }
 .item-projeto{
     width: 100%;
     padding: 10px;
-    background: #f8f8ff;
     margin-bottom: 15px;
-    display: flex;
+    /* display: flex;
     justify-content:space-between;
-    flex-direction: column;
+    flex-direction: column; */
     /* height: 400px; */
 }
 .item-projeto .logo-project{
@@ -3871,5 +3880,115 @@ button.bg-none:hover{
         width: 70%;
         padding: 30px;
         line-height: 1.5;
+    }
+}
+
+/* PÁGINA APOIADORES */
+
+html {
+    scroll-behavior: smooth;
+}
+:target{
+    scroll-margin-top: 150px;
+}
+.pages.pg-apoiadores h1, .pages.pg-apoiadores p{
+    width: 100%;
+}
+.pages.pg-apoiadores .page-header p{
+    font-size: 14px;
+}
+.pg-apoiadores .content{
+    width: 100%;
+}
+.item-apoiador.flex-container{
+    align-items: center;
+}
+.img-apoiador{
+    width: 60%;
+    text-align: center;
+}
+.conteudo-apoiador{
+    width: 90%;
+    text-align: center;
+}
+.conteudo-apoiador p{
+    font-size: 14px;
+    margin-top: 10px;
+}
+.img-apoiador ul{
+    text-align: center;
+    margin: 20px 0;
+}
+.img-apoiador ul li{
+    display: inline;
+    padding: 5px;
+    font-size: 24px;
+}
+.item-apoiador{
+    padding: 20px;
+    border-bottom: 1px solid #f1f1f1;
+}
+.item-apoiador:last-child{
+    border-bottom: none;
+}
+.nav-apoiadores{
+    display: none;
+}
+.pg-apoiadores .content{
+    position: relative;
+}
+@media  screen and (min-width: 768px){
+    .pages.pg-apoiadores .page-header h1, .pages.pg-apoiadores .page-header p{
+    width: 70%;
+}
+    .pages.pg-apoiadores .page-header p{
+        font-size: 18px;
+    }
+    .pg-apoiadores .content{
+        width: 100%;
+        margin: 60px auto;
+        position: relative;
+    }
+    .img-apoiador{
+        width: 40%;
+        padding: 30px 50px;
+    }
+    .img-apoiador ul li{
+        padding: 15px;
+    }
+    .apresentacao-apoiadores{
+        width: 80%;
+    }
+    .conteudo-apoiador{
+        width: 60%;
+        text-align: left;
+    }
+    .menu-apoiadores{
+        width: 20%;
+    }
+    .nav-apoiadores{
+        display: block;
+        /* width: 20%; */
+        position: relative;
+        text-align: right;
+    }
+    .nav-apoiadores ul{
+        list-style: none;
+        position: fixed;
+        z-index: 0;
+        top: 180px;
+        text-align: right;
+        background: #e4e4e4;
+        padding: 15px;
+    }
+    .nav-apoiadores ul li{
+        border-bottom: 1px solid #eee;
+        padding: 5px 0;
+        font-size: 13px;
+        font-weight: bold;
+        text-transform: uppercase;
+    }
+    .nav-apoiadores img{
+        height: 35px;
     }
 }

@@ -24,8 +24,12 @@ include 'app/views/header.php';
                             <button type="submit"><i class="fa fa-search"></i></button>
                         </form>
                     </div>
-                    <div class="content-archives">
-                        
+                    <div class="txt-resultado">
+                        <!-- Frase sem projetos nas categorias selecionandas -->
+                        <p>Nenhum projeto cadastrado nessa categoria</p>
+                        <!-- Frase sem projetos nas categorias selecionandas -->
+                    </div>
+                    <div class="content-archives">                        
                         <div class="card-project">
                             <div class="title-project flex-container">
                                 <div class="logo-project">

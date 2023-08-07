@@ -20,7 +20,7 @@
             <div class="contact-footer">                
                 <h4><a href="/page/politica" title="Termos de uso">Termos de uso e Política de Privacidade</a></h4>
                 <div class="read-more">
-                    <a href="https://api.whatsapp.com/send?phone=551123673160" target="_blank" class="btn bg-green"><i class="fab fa-whatsapp"></i> Fale Conosco</a>
+                    <a href="https://api.whatsapp.com/send?phone=551123673170" target="_blank" class="btn bg-green"><i class="fab fa-whatsapp"></i> Fale Conosco</a>
                 </div>
             </div>
         </div>
