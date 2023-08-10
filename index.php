@@ -313,14 +313,14 @@ include 'app/views/header.php';
                     <h3>Parceiros Institucionais</h3>
                 </div>    
                 <div class="logo-sponsors">
-                    <!-- <div class="img-sponsors">
-                        <img src="app/assets/images/enimpactos.png" alt="Enimpacto"/>
-                    </div>
-                    <div class="img-sponsors">
-                        <img src="app/assets/images/pnud.png" alt="PNUD"/>
-                    </div> -->
                     <div class="img-sponsors">
                         <img src="app/assets/images/logo-virada-ods-2023.png" alt="Virada ODS São Paulo"/>
+                    </div>
+                    <div class="img-sponsors">
+                        <img src="app/assets/images/sev.webp" alt="Misnistério do Desenvolvimento, indústria, Comércio e Serviços"/>
+                    </div>
+                    <div class="img-sponsors">
+                        <img src="app/assets/images/enimpacto.webp" alt="Enimpacto"/>
                     </div>
                 </div> 
             </div> 
