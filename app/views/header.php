@@ -101,9 +101,9 @@
                 <div class="subscription-links">
                     <div class="button-subscription">
                         <!-- BOTÃO PARA INSCRIÇÃO DO PROJETO -->
-                        <a href="select-project.php" class="btn bg-green">Inscreva seu Projeto</a>
+                        <!-- <a href="select-project.php" class="btn bg-green">Inscreva seu Projeto</a> -->
                         <!-- BOTÃO PARA VOTAÇÃO -->
-                        <!-- <a href="vitrine.php class="btn bg-green">Votar Agora!</a> -->
+                        <a href="projects.php" class="btn bg-green">Votar Agora!</a>
                         <!-- BOTÃO PARA ASSISTIR AO EVENTO -->
                         <!-- <a href="premacao-2023.php class="btn bg-green">Assistir Premiação</a> -->
                     </div>

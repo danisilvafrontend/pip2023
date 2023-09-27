@@ -1781,7 +1781,7 @@ include 'app/views/header.php';
                         <input type="file" name="" id="" accept="video/*">
                         <label for=""></label>
                         <label class="link-video">
-                            <input type="url" name="" id="" placeholder="ou cole o link do Youtube ou Vimeo">
+                            <input type="url" name="" id="" placeholder="Ex: Youtube: https://www.youtube.com/embed/9tX2_69XGXE ou Vimeo https://player.vimeo.com/video/703751054">
                             <a class="tooltip" href="#"><i class="fas fa-exclamation-circle"></i>
                                 <span class="tooltiptext">Para que o video funcione, é aceito link no formato de embed. Ex: Youtube: https://www.youtube.com/embed/9tX2_69XGXE ou Vimeo https://player.vimeo.com/video/703751054</span>
                             </a>
